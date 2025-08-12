@@ -92,6 +92,9 @@
           </span>
           <h3 class="text-xl font-semibold text-left">Badan Pengurus Harian HIMADIRA</h3>
           <span class="text-sm text-gray-400 block text-left">2018 - 2019</span>
+          <h5 class="text-lg font-semibold text-left">
+            Regeneration Staff atau Recruitment & Development Staff
+          </h5>
           <p class="mt-2 text-gray-300 text-left">
             Memimpin berbagai kegiatan sekolah dan mengorganisir acara tahunan.
           </p>
@@ -106,6 +109,9 @@
           </span>
           <h3 class="text-xl font-semibold text-left">Badan Pengurus Harian HIMADIRA</h3>
           <span class="text-sm text-gray-400 block text-left">2019 - 2023</span>
+          <h5 class="text-lg font-semibold text-left">
+            Deputy Head of Recruitment & Development Department
+          </h5>
           <p class="mt-2 text-gray-300 text-left">
             Aktif mengikuti seminar, workshop, dan pengabdian masyarakat.
           </p>
